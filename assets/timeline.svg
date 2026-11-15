@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 212" width="1000" height="212" role="img" aria-label="Percurso: Deloitte (2022), licenciatura em Engenharia Informática (2024), EY Ambassador (março 2025), co-fundador da Flowix (dezembro 2025), Top 1 EY Portugal 2025/26">
+<title>Percurso: Deloitte (2022), licenciatura em Engenharia Informática (2024), EY Ambassador (março 2025), co-fundador da Flowix (dezembro 2025), Top 1 EY Portugal 2025/26</title>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,system-ui,sans-serif}
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.trav{animation:tr 8s linear infinite}@keyframes tr{from{transform:translateX(-40px)}to{transform:translateX(930px)}}
+.nr{transform-box:fill-box;transform-origin:center;animation:np 8s ease-out infinite}
+@keyframes np{0%{transform:scale(.9);opacity:0}4%{opacity:.9}18%{transform:scale(2.2);opacity:0}100%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.pulse{display:none}}
+</style>
+<defs>
+<linearGradient id="tl" x1="0" x2="1"><stop offset="0" stop-color="#1F2833" stop-opacity="0"/><stop offset=".08" stop-color="#1F2833"/><stop offset=".92" stop-color="#1F2833"/><stop offset="1" stop-color="#1F2833" stop-opacity="0"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#4DF0B8" stop-opacity="0"/><stop offset=".7" stop-color="#4DF0B8" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<rect x="0" y="63" width="1000" height="2" fill="url(#tl)"/>
+<rect x="0" y="62.5" width="140" height="3" rx="1.5" fill="url(#tg)" class="trav"/>
+<g>
+<circle cx="100" cy="64" r="13" fill="#0A0D12" stroke="#8B97A5" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="100" cy="64" r="5" fill="#8B97A5"/>
+<circle cx="100" cy="64" r="13" fill="none" stroke="#8B97A5" stroke-width="1.5" class="nr" style="animation-delay:1.15s"/>
+<text x="100" y="34" text-anchor="middle" class="mono" font-size="13" letter-spacing="1.5" fill="#8B97A5">SET 2022</text>
+<text x="100" y="112" text-anchor="middle" font-size="19" font-weight="700" fill="#E8EDF2">Deloitte</text>
+<text x="100" y="138" text-anchor="middle" font-size="14.5" fill="#8B97A5">Consultant &amp; Developer</text>
+<text x="100" y="159" text-anchor="middle" font-size="14.5" fill="#8B97A5">Low-code · Agile · Scrum</text>
+</g>
+<g>
+<circle cx="300" cy="64" r="13" fill="#0A0D12" stroke="#7DB8FF" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="300" cy="64" r="5" fill="#7DB8FF"/>
+<circle cx="300" cy="64" r="13" fill="none" stroke="#7DB8FF" stroke-width="1.5" class="nr" style="animation-delay:2.8s"/>
+<text x="300" y="34" text-anchor="middle" class="mono" font-size="13" letter-spacing="1.5" fill="#7DB8FF">2024</text>
+<text x="300" y="112" text-anchor="middle" font-size="19" font-weight="700" fill="#E8EDF2">Licenciatura</text>
+<text x="300" y="138" text-anchor="middle" font-size="14.5" fill="#8B97A5">Eng. Informática</text>
+<text x="300" y="159" text-anchor="middle" font-size="14.5" fill="#8B97A5">ESTGV · IPV · 2024–27</text>
+</g>
+<g>
+<circle cx="500" cy="64" r="13" fill="#0A0D12" stroke="#FFB347" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="500" cy="64" r="5" fill="#FFB347"/>
+<circle cx="500" cy="64" r="13" fill="none" stroke="#FFB347" stroke-width="1.5" class="nr" style="animation-delay:4.45s"/>
+<text x="500" y="34" text-anchor="middle" class="mono" font-size="13" letter-spacing="1.5" fill="#FFB347">MAR 2025</text>
+<text x="500" y="112" text-anchor="middle" font-size="19" font-weight="700" fill="#E8EDF2">EY Ambassador</text>
+<text x="500" y="138" text-anchor="middle" font-size="14.5" fill="#8B97A5">Elo entre a EY e a</text>
+<text x="500" y="159" text-anchor="middle" font-size="14.5" fill="#8B97A5">academia</text>
+</g>
+<g>
+<circle cx="700" cy="64" r="13" fill="#0A0D12" stroke="#4DF0B8" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="700" cy="64" r="5" fill="#4DF0B8"/>
+<circle cx="700" cy="64" r="13" fill="none" stroke="#4DF0B8" stroke-width="1.5" class="nr" style="animation-delay:6.1s"/>
+<text x="700" y="34" text-anchor="middle" class="mono" font-size="13" letter-spacing="1.5" fill="#4DF0B8">DEZ 2025</text>
+<text x="700" y="112" text-anchor="middle" font-size="19" font-weight="700" fill="#E8EDF2">Flowix</text>
+<text x="700" y="138" text-anchor="middle" font-size="14.5" fill="#8B97A5">Co-Founder &amp; CSO</text>
+<text x="700" y="159" text-anchor="middle" font-size="14.5" fill="#8B97A5">Agência de IA e automação</text>
+</g>
+<g>
+<circle cx="900" cy="64" r="13" fill="#0A0D12" stroke="#FFB347" stroke-width="2" stroke-opacity=".9"/>
+<circle cx="900" cy="64" r="5" fill="#FFB347"/>
+<circle cx="900" cy="64" r="13" fill="none" stroke="#FFB347" stroke-width="1.5" class="nr" style="animation-delay:7.75s"/>
+<text x="900" y="34" text-anchor="middle" class="mono" font-size="13" letter-spacing="1.5" fill="#FFB347">2025/26</text>
+<text x="900" y="112" text-anchor="middle" font-size="19" font-weight="700" fill="#E8EDF2">Top 1 · EY Portugal</text>
+<text x="900" y="138" text-anchor="middle" font-size="14.5" fill="#8B97A5">Vencedor do programa de</text>
+<text x="900" y="159" text-anchor="middle" font-size="14.5" fill="#8B97A5">Embaixadores EY</text>
+</g>
+</svg>

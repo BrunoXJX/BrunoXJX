@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Marca Bruno Jesus">
+<title>Marca Bruno Jesus</title>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,system-ui,sans-serif}
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.pulse{display:none}}
+</style>
+<g transform="scale(1)">
+<rect x="1" y="1" width="62" height="62" rx="16" fill="#0A0D12" stroke="#1F2833" stroke-width="2"/>
+<path d="M20 19 C34 19 30 32 43 32 M20 45 C34 45 30 32 43 32" fill="none" stroke="#4DF0B8" stroke-width="4" stroke-linecap="round"/>
+<circle cx="16" cy="19" r="4.5" fill="#4DF0B8"/><circle cx="16" cy="45" r="4.5" fill="#4DF0B8"/>
+<circle cx="47" cy="32" r="8" fill="#4DF0B8"/></g>
+</svg>

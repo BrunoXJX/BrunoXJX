@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 190" width="490" height="190" role="img" aria-label="Projeto Guia-Turistico-AI: VOYAGE AI — protótipo mobile-first de um guia turístico inteligente.">
+<title>Projeto Guia-Turistico-AI: VOYAGE AI — protótipo mobile-first de um guia turístico inteligente.</title>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,system-ui,sans-serif}
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.sh{animation:sh 7s ease-in-out infinite;animation-delay:0.9s}@keyframes sh{0%{transform:translateX(-240px)}40%,100%{transform:translateX(550px)}}.dot{animation:dt 2.4s ease-in-out infinite}@keyframes dt{50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.pulse{display:none}}
+</style>
+<defs><linearGradient id="s1" x1="0" x2="1"><stop offset="0" stop-color="#7DB8FF" stop-opacity="0"/><stop offset=".5" stop-color="#7DB8FF"/><stop offset="1" stop-color="#7DB8FF" stop-opacity="0"/></linearGradient><clipPath id="pc1"><rect width="490" height="190" rx="16"/></clipPath></defs>
+<g clip-path="url(#pc1)"><rect width="490" height="190" fill="#0D1117"/>
+<rect width="490" height="2" fill="#1F2833"/><rect width="240" height="2" fill="url(#s1)" class="sh"/>
+<g transform="translate(28 28)"><path d="M2 5.5A2.5 2.5 0 0 1 4.5 3H13v16H4.5A2.5 2.5 0 0 0 2 21.5zM13 3h6.5A1.5 1.5 0 0 1 21 4.5v15a1.5 1.5 0 0 1-1.5 1.5H13" fill="none" stroke="#7DB8FF" stroke-width="1.6" stroke-linejoin="round" transform="scale(.85)"/></g>
+<text x="60" y="46" class="mono" font-size="19" font-weight="700" fill="#E8EDF2">Guia-Turistico-AI</text>
+<text x="462" y="46" text-anchor="end" class="mono" font-size="12" fill="#7A8694">público ↗</text>
+<text x="28" y="86" font-size="16" fill="#8B97A5">VOYAGE AI — protótipo mobile-first</text><text x="28" y="110" font-size="16" fill="#8B97A5">de um guia turístico inteligente.</text>
+<rect x="28" y="140" width="63" height="26" rx="13" fill="#11161D" stroke="#1F2833"/><text x="59.5" y="157.5" text-anchor="middle" class="mono" font-size="12" fill="#8B97A5">React</text><rect x="99" y="140" width="54.8" height="26" rx="13" fill="#11161D" stroke="#1F2833"/><text x="126.4" y="157.5" text-anchor="middle" class="mono" font-size="12" fill="#8B97A5">Vite</text><rect x="161.8" y="140" width="87.6" height="26" rx="13" fill="#11161D" stroke="#1F2833"/><text x="205.6" y="157.5" text-anchor="middle" class="mono" font-size="12" fill="#8B97A5">Tailwind</text>
+<circle cx="370" cy="153" r="5" fill="#3178C6" class="dot"/><text x="382" y="157.5" font-size="13" fill="#8B97A5">TypeScript</text></g>
+<rect x=".5" y=".5" width="489" height="189" rx="16" fill="none" stroke="#1F2833"/>
+</svg>

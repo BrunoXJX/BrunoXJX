@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="img" aria-label="">
+<title></title>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,system-ui,sans-serif}
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+.sweep{animation:sw 5s cubic-bezier(0.16,1,0.3,1) infinite}@keyframes sw{from{transform:translateX(-300px)}to{transform:translateX(1000px)}}
+.dia{transform-box:fill-box;transform-origin:center;animation:dia 4s ease-in-out infinite}@keyframes dia{50%{transform:rotate(45deg) scale(1.25)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.pulse{display:none}}
+</style>
+<defs>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#1F2833" stop-opacity="0"/><stop offset=".5" stop-color="#1F2833"/><stop offset="1" stop-color="#1F2833" stop-opacity="0"/></linearGradient>
+<linearGradient id="sw" x1="0" x2="1"><stop offset="0" stop-color="#4DF0B8" stop-opacity="0"/><stop offset=".5" stop-color="#4DF0B8"/><stop offset="1" stop-color="#4DF0B8" stop-opacity="0"/></linearGradient></defs>
+<rect y="13" width="1000" height="2" fill="url(#ln)"/>
+<rect y="13" width="260" height="2" fill="url(#sw)" class="sweep"/>
+<rect x="495" y="9" width="10" height="10" rx="2" fill="#0A0D12" stroke="#4DF0B8" stroke-width="1.5" class="dia"/>
+</svg>
